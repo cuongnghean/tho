@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Scanner_THO",
+    "slug": "Scanner_THO",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "05486e3b-acfb-4c8d-8385-1808224b58b6"
+      }
+    }
+  }
+}
